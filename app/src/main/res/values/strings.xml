@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Team Assigner</string>
+    <string name="this_is_a_test">This is a test!!</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="enter_the_number_of_teams">Enter the number of teams</string>
+    <string name="enter_the_number_of_people">Enter the number of people</string>
+    <string name="enter_the_number_of_people_hint">Enter the number of people</string>
+    <string name="submit">Submit</string>
+    <string name="enter_skill_level">Enter skill level</string>
+    <string name="enter_name">Enter name</string>
+    <string name="display_results">Display Results</string>
+    <string name="teamsTextView">enter_the_number_of_teams:</string>
+    <string name="peopleTextView">enter_the_number_of_people:</string>
+    <string name="input_number_of_teams">Input number of teams:</string>
+    <string name="input_number_of_people">Input number of people:</string>
+</resources>
